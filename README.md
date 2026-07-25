@@ -4,7 +4,7 @@
 
 ## Sujet
 
-Vous allez, dans ce projet, entraîner plusieurs réseaux de neurones à classifier des paysages. Vous utiliserez pour cela le dataset Landscapes disponible [ici](https://github.com/ml5js/ml5-data-and-models/tree/master/datasets/images/landscapes).
+Vous allez, dans ce projet, entraîner plusieurs réseaux de neurones à classifier des paysages. Vous utiliserez pour cela le dataset Landscapes disponible [https://github.com/ml5js/ml5-data-and-models/tree/master/datasets/images/landscapes](https://github.com/ml5js/ml5-data-and-models/tree/master/datasets/images/landscapes).
 
 Il s'agit d'un dataset comprenant 4000 images appartenant à 7 catégories.
 
