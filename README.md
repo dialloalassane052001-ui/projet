@@ -8,7 +8,7 @@ Vous allez, dans ce projet, entraîner plusieurs réseaux de neurones à classif
 
 Il s'agit d'un dataset comprenant 4000 images appartenant à 7 catégories.
 
-![Exemples du dataset](./Image/landscape_example.jpg)*Exemples du dataset*
+![Exemples du dataset](https://github.com/JingMatrix/KMAX9AC1/blob/affc17c4b2a48014fa959eeaae1b2ad14e2a9985/Image/landscape_example.jpg)*Exemples du dataset*
 
 ### Objectifs
 
